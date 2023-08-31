@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-ac8qt9g_v_m)m^1#o%y5h+^#or2mqbs6g0r0=9q&!qh3s+im(3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://pokedex-poke-6660797b37d7.herokuapp.com/']
+ALLOWED_HOSTS = ['https://pokedex-poke-6660797b37d7.herokuapp.com/', 'https://whispering-tundra-39265-38dabccfa75e.herokuapp.com/', 'localhost']
 
 
 # Application definition
